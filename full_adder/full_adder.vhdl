@@ -14,9 +14,7 @@ begin
 end behaviour;
 
 -- vhdl code for half adder
-library	ieee;
-use ieee.std_logic_1164.all;
-
+	
 entity half_adder is
 	port(
 		a,b: in STD_LOGIC;
@@ -32,8 +30,6 @@ end behaviour;
 
 --vhdl code for full adder using two half adder and a or gate
 
-library ieee;
-use ieee.std_logic_1164.all;
 
 entity full_adder is
 	port(

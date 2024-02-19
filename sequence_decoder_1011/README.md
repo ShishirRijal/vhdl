@@ -43,8 +43,8 @@ If the sequence is detected, the output is set to '1'; otherwise, it is '0'.
 
 
 ## FSM
-![image](https://github.com/ShishirRijal/vhdl/assets/63596895/0833c236-371f-413a-957f-0693afd87659)
-<img width="740" alt="Screenshot 2024-02-19 at 1 30 24 AM" src="https://github.com/ShishirRijal/vhdl/assets/63596895/b145f0fc-4542-4ed6-b229-4f17f237efae">
+![IMG_0278](https://github.com/ShishirRijal/vhdl/assets/63596895/e74e5303-f866-469f-8848-d85e45da36a4)
+
 
 
 ## Output Waveform
